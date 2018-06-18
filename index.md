@@ -2,15 +2,17 @@
 title: Tutorial di programmazione
 ---
 
-I tutorial nascono nell'ambito delle attività di docenza svolte all'interno dei CoderDojo italiani e sono stati realizzati per avvicinare all'uso dei computer i bambini di età compresa tra i 7 e i 14 anni circa.
+### Questo sito nasce dall'esigenza di fornire ai giovani degli **spunti**, delle **idee** che li stimolino ad avvicinarsi al mondo dell'informatica in modo **divertente**. I progetti che trovate qui hanno lo scopo di invogliarli a utilizzare la tecnologia come un nuovo strumento per sviluppare la propria **creatività**.
 
-Sono presenti tutorial per [Scratch](http://scratch.mit.edu){:target="_blank"}, per le tecnologie web (HTML/CSS/Javascript) e per Python.
+| Informazione importante |
+| :---: |
+| Se avete fretta cliccate subito sul pulsante "Progetti da scaricare" in alto per visualizzare e scaricare il materiale disponibile sul sito. |
 
-Per scaricare i tutorial utilizzate i link che seguono:
+Per i più piccoli ogni progetto può essere considerato come un tutorial completo che possono seguire passo passo per familiarizzarsi con lo strumento. Ma alla fine del tutorial i più grandicelli possono trovare degli spunti per introdurre delle personalizzazioni e delle varianti, staccandosi così dalla semplice ripetizione dei passi già tracciati.
 
-- [Scratch](site/scratch)
-- [HTML/CSS/Javascript](site/web)
-- [Python](site/python)
+Scratch è sicuramente lo strumento più utilizzato per aiutare chi non ha familiarità con il computer a creare qualcosa, ma crescendo i giovani chiedono di fare qualcosa di diverso, spinti da varie motivazioni: semplice voglia di cambiare, curiosità o necessità per qualche idea che devono sviluppare. Così sono presenti progetti sviluppati con linguaggi diversi, da Python ai linguaggi utilizzati sul Web.
+
+I tutorial nascono dall'esperienza acquisita nell'ambito delle attività di docenza svolte dal sottoscritto all'interno dell'associazione CoderDojo, e in particolare del CoderDojo Malpensa.
 
 
 ### Licenza
