@@ -1,12 +1,16 @@
+---
+title: Tutorial di programmazione
+---
+
 I tutorial nascono nell'ambito delle attività di docenza svolte all'interno dei CoderDojo italiani e sono stati realizzati per avvicinare all'uso dei computer i bambini di età compresa tra i 7 e i 14 anni circa.
 
-Sono presenti tutorial per [Scratch](http://scratch.mit.edu), per le tecnologie web (HTML/CSS/Javascript) e per Python.
+Sono presenti tutorial per [Scratch](http://scratch.mit.edu){:target="_blank"}, per le tecnologie web (HTML/CSS/Javascript) e per Python.
 
 Per scaricare i tutorial utilizzate i link che seguono:
 
 - [Scratch](site/scratch)
-- [HTML/CSS/Javascript](site/web) (in costruzione)
-- [Python](site/python) (in costruzione)
+- [HTML/CSS/Javascript](site/web)
+- [Python](site/python)
 
 
 ### Licenza
@@ -17,7 +21,7 @@ I testi dei tutorial sono distribuiti con licenza
 
 ![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.](http://creativecommons.org/licenses/by-sa/4.0/deed.it)
+[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.](http://creativecommons.org/licenses/by-sa/4.0/deed.it){:target="_blank"}
 
 #### Software
 
@@ -27,4 +31,4 @@ All the programs are free software: you can redistribute them and/or modify them
 
 All the programs are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-In this repository there is a copy of the GNU General Public License. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
+In this repository there is a copy of the GNU General Public License. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/){:target="_blank"}.
