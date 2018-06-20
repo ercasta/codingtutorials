@@ -12,7 +12,7 @@ Per i più piccoli ogni progetto può essere considerato come un tutorial comple
 
 Scratch è sicuramente lo strumento più utilizzato per aiutare chi non ha familiarità con il computer a creare qualcosa, ma crescendo i giovani chiedono di fare qualcosa di diverso, spinti da varie motivazioni: semplice voglia di cambiare, curiosità o necessità per qualche idea che devono sviluppare. Così sono presenti progetti sviluppati con linguaggi diversi, da Python ai linguaggi utilizzati sul Web.
 
-I tutorial nascono dall'esperienza acquisita nell'ambito delle attività di docenza svolte dal sottoscritto all'interno dell'associazione CoderDojo, e in particolare del CoderDojo Malpensa.
+I tutorial nascono dall'esperienza acquisita nell'ambito delle attività di docenza svolte dal sottoscritto all'interno dell'associazione CoderDojo, e in particolare del [CoderDojo Malpensa](https://coderdojomxp.wordpress.com/){:target="_blank"}.
 
 
 ### Licenza
