@@ -4,13 +4,13 @@ title: Introduzione
 
 ### Questo sito nasce dall'esigenza di fornire ai giovani degli **spunti**, delle **idee** che li stimolino ad avvicinarsi al mondo dell'informatica in modo **divertente**. I progetti che trovate qui hanno lo scopo di invogliarli a utilizzare la tecnologia come un nuovo strumento per sviluppare la propria **creatività**.
 
-<table><tr><td bgcolor="lightyellow">Se avete fretta cliccate subito sul pulsante "Progetti da scaricare" in alto per visualizzare e scaricare il materiale disponibile sul sito.</td></tr></table>
+<table><tr><td bgcolor="lightcyan">Se avete fretta cliccate subito sul pulsante "Progetti da scaricare" in alto per visualizzare e scaricare il materiale disponibile sul sito.</td></tr></table>
 
 Per i più piccoli ogni progetto può essere considerato come un tutorial completo che possono seguire passo passo per familiarizzarsi con lo strumento. Ma alla fine del tutorial i più grandicelli possono trovare degli spunti per introdurre delle personalizzazioni e delle varianti, staccandosi così dalla semplice ripetizione dei passi già tracciati.
 
-Scratch è sicuramente lo strumento più utilizzato per aiutare chi non ha familiarità con il computer a creare qualcosa, ma crescendo i giovani chiedono di fare qualcosa di diverso, spinti da varie motivazioni: semplice voglia di cambiare, curiosità o necessità per qualche idea che devono sviluppare. Così sono presenti progetti sviluppati con linguaggi diversi, da Python ai linguaggi utilizzati sul Web.
+**Scratch** è sicuramente lo strumento più utilizzato per aiutare chi non ha familiarità con il computer a creare qualcosa, ma crescendo i giovani chiedono di fare qualcosa di diverso, spinti da varie motivazioni: semplice voglia di cambiare, curiosità o necessità per qualche idea che devono sviluppare. Così sono presenti progetti sviluppati con linguaggi diversi, da **Python** ai **linguaggi utilizzati sul Web**.
 
-I tutorial nascono dall'esperienza acquisita nell'ambito delle attività di docenza svolte dal sottoscritto all'interno dell'associazione CoderDojo, e in particolare del [CoderDojo Malpensa](https://coderdojomxp.wordpress.com/){:target="_blank"}.
+I tutorial nascono dall'esperienza acquisita nell'ambito delle attività di docenza svolte all'interno dell'associazione CoderDojo, e in particolare del [CoderDojo Malpensa](https://coderdojomxp.wordpress.com/){:target="_blank"}.
 
 
 ### Licenza
