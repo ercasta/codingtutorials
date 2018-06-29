@@ -2,6 +2,8 @@
 title: Tutorial per Python
 ---
 
+# {{ page.title }}
+
 Da questa pagina potete scaricare i tutorial per Python.
 
 | Indovina un numero | [Scarica ZIP](files/python_indovina_un_numero.zip) |

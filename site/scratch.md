@@ -2,6 +2,8 @@
 title: Tutorial per Scratch
 ---
 
+# {{ page.title }}
+
 Da questa pagina potete scaricare i tutorial per Scratch.
 
 | Caduta dadi | [Scarica ZIP](files/caduta_dadi.zip) |
