@@ -4,7 +4,7 @@ title: Introduzione
 
 ### Questo sito nasce dall'esigenza di fornire ai giovani degli **spunti**, delle **idee** che li stimolino ad avvicinarsi al mondo dell'informatica in modo **divertente**. I progetti che trovate qui hanno lo scopo di invogliarli a utilizzare la tecnologia come un nuovo strumento per sviluppare la propria **creatività**.
 
-<table><tr><td bgcolor="lightcyan">Se avete fretta cliccate subito sul pulsante "Progetti da scaricare" in alto per visualizzare e scaricare il materiale disponibile sul sito.</td></tr></table>
+<table><tr><td bgcolor="lightcyan">Se avete fretta cliccate subito sui pulsanti "Progetti da scaricare" o "Didattica" in alto per visualizzare e scaricare il materiale disponibile sul sito.</td></tr></table>
 
 Per i più piccoli ogni progetto può essere considerato come un tutorial completo che possono seguire passo passo per familiarizzarsi con lo strumento. Ma alla fine del tutorial i più grandicelli possono trovare degli spunti per introdurre delle personalizzazioni e delle varianti, staccandosi così dalla semplice ripetizione dei passi già tracciati.
 
