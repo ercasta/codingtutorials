@@ -10,7 +10,13 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name"><a class="project-name" href="{{ site.baseurl }}/">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <div class="project-name">
+        <h1 class="project-name"><a class="project-name" href="{{ site.baseurl }}/">{{ site.title | default: site.github.repository_name }}</a></h1>
+      </div>
+      <div class="contact-link">
+        <a href="mailto:xlcak143pry1@opayq.com"><img class="contact-link" alt="mail" title="Scrivimi via email" src="{{ 'site/images/mail_icon.png' | relative_url }}"/></a>
+        <a href="https://twitter.com/kronwiz" target="_blank"><img class="contact-link" alt="twitter" title="Rimani aggiornato su Twitter" src="{{ 'site/images/twitter_icon.png' | relative_url }}"/></a>
+      </div>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->

@@ -16,6 +16,24 @@ a.project-name {
   }
 }
 
+div.project-name {
+  display: inline-block;
+}
+
+div.contact-link {
+  display: inline-block;
+}
+
+img.contact-link {
+  display: block;
+  margin-left: 5px;
+
+  @media screen and (max-width: 42em) {
+    display: inline;
+    margin-right: 5px;
+  }
+}
+
 
 .post-date { font-weight: bold; }
 
